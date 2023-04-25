@@ -1,0 +1,15 @@
+Game1 = input("Do you wanna play a game")
+if Game1 == 'yes':
+  answer = print("lets play hang man. I'm thinking of a four letter word. Guess a letter? "):
+    if answer == "c":
+      print ("correct")
+    if answer == "o":
+      print("correct")
+    if answer == "d":
+      print("correct")
+    if answer == "e":
+      print("correct")
+    if answer == "r"
+      print("correct")
+    else:
+      print("sorry,try again")
